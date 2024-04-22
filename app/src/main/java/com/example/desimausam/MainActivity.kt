@@ -153,7 +153,7 @@ class MainActivity : AppCompatActivity() {
                                 binding.lottieBackground.setAnimation(R.raw.moon_backgroundd)
                             }
 
-                            "09n","10n","11n" -> {
+                            "09n","10n","11n","13n","50n" -> {
                                 animation.setAnimation(R.raw.moon_thunderstorm)
                                 binding.lottieBackground.setAnimation(R.raw.rain_background)
                             }
